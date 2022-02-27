@@ -1,0 +1,13 @@
+.btn-white {
+  background-color: whitesmoke;
+  color: #164f76;
+  padding: 15px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-white:hover{
+  background-color: lightgrey;
+  color: #164f76
+}
